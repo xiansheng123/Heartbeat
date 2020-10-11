@@ -1,0 +1,15 @@
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.exe
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Mapping_Table_UK.txt
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Mapping_Table_US.txt
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Mapping_Table_US_Special.txt
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\sourceText.list
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.deps.json
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.runtimeconfig.json
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.runtimeconfig.dev.json
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.dll
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\bin\Release\netcoreapp3.0\Heartbeat.pdb
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\obj\Release\netcoreapp3.0\Heartbeat.csprojAssemblyReference.cache
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\obj\Release\netcoreapp3.0\Heartbeat.AssemblyInfoInputs.cache
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\obj\Release\netcoreapp3.0\Heartbeat.AssemblyInfo.cs
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\obj\Release\netcoreapp3.0\Heartbeat.dll
+C:\Users\luxuda\workspace\Heartbeat\Heartbeat\obj\Release\netcoreapp3.0\Heartbeat.pdb

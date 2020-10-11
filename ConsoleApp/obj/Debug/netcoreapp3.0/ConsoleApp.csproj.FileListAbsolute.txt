@@ -1,0 +1,13 @@
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\-ing-200206.word.all.list
+C:\Users\luxuda\workspace\Heartbeat\ConsoleApp\bin\Debug\netcoreapp3.0\Oxford English Dictionary.txt

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b82a454-9434-4954-884b-c49aaa0b7c8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/NameMaper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/3D5/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/D3/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/70/368fa6c2/MaybeNullAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/PhoneticGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/LineObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/GroupLineObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/7b/9b7ae854/StringSplitOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/329/FileStream.Windows.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heartbeat/NameMaper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/a8/3cc65185/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/PhoneticGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeartbeatWinForms/SampleReport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/38/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Heartbeat/Utils.cs" />
+        <option value="$PROJECT_DIR$/Heartbeat/CET6-ciba-beizhu.word.all.list" />
+        <option value="$PROJECT_DIR$/Heartbeat/Mapping_Table_UK.txt" />
+        <option value="$PROJECT_DIR$/Heartbeat/Mapping_Table_US_Special.txt" />
+        <option value="$PROJECT_DIR$/Heartbeat/Mapping_Table_US.txt" />
+        <option value="$PROJECT_DIR$/Heartbeat/PhoneticGenerator.cs" />
+        <option value="$PROJECT_DIR$/Heartbeat/sourceText.list" />
+        <option value="$PROJECT_DIR$/Heartbeat/LineObj.cs" />
+        <option value="$PROJECT_DIR$/Heartbeat/GroupLineObj.cs" />
+        <option value="$PROJECT_DIR$/Heartbeat/NameMaper.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Heartbeat/Program.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/LineObj.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/Utils.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/PhoneticGenerator.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/GroupLineObj.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/NameMaper.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/file2.txt" />
+        <option value="$PROJECT_DIR$/ConsoleApp/file1.txt" />
+        <option value="$PROJECT_DIR$/ConsoleApp/result.txt" />
+        <option value="$PROJECT_DIR$/ConsoleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/Form1.cs" />
+        <option value="$PROJECT_DIR$/HeartbeatWinForms/SampleReport.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbvX4INxpxqQGffxt0hxn6hBQs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderCodeAnnotations" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&quot;12,23&quot;" />
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.HeartbeatWinForms">
+    <configuration name="ConsoleApp" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Heartbeat/bin/Debug/netcoreapp3.0/Heartbeat.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heartbeat/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Heartbeat/Heartbeat.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="HeartbeatWinForms" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HeartbeatWinForms/HeartbeatWinForms.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="WithPartial" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Heartbeat/bin/Debug/netcoreapp3.0/Heartbeat.dll" />
+      <option name="PROGRAM_PARAMETERS" value="partial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heartbeat/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Heartbeat/Heartbeat.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.WithPartial" />
+      <item itemvalue=".NET Project.HeartbeatWinForms" />
+      <item itemvalue=".NET Project.ConsoleApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.HeartbeatWinForms" />
+        <item itemvalue=".NET Project.ConsoleApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b82a454-9434-4954-884b-c49aaa0b7c8e" name="Default Changelist" comment="" />
+      <created>1575638146689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575638146689</updated>
+      <workItem from="1575638153924" duration="372000" />
+      <workItem from="1575638605281" duration="213000" />
+      <workItem from="1575638955838" duration="7702000" />
+      <workItem from="1575702641029" duration="11244000" />
+      <workItem from="1575794550079" duration="18865000" />
+      <workItem from="1575899209200" duration="7952000" />
+      <workItem from="1575981631890" duration="4095000" />
+      <workItem from="1576505561442" duration="875000" />
+      <workItem from="1576583697915" duration="11301000" />
+      <workItem from="1576670005538" duration="1910000" />
+      <workItem from="1576674778619" duration="5481000" />
+      <workItem from="1577015412112" duration="7044000" />
+      <workItem from="1577620001421" duration="1211000" />
+      <workItem from="1580977717687" duration="2637000" />
+      <workItem from="1581134130825" duration="9701000" />
+      <workItem from="1591018340478" duration="8846000" />
+      <workItem from="1602384434267" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog" timestamp="1602384974570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602384974570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ConsoleApp/Program.cs</url>
+          <line>66</line>
+          <properties documentPath="$PROJECT_DIR$/ConsoleApp/Program.cs" initialLine="52">
+            <startOffsets>
+              <option value="2225" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2241" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <condition expression="verb=&quot;accommodate&quot;" language="C#" custom="RiderImportsList:" />
+          <url>file://$PROJECT_DIR$/ConsoleApp/Program.cs</url>
+          <line>52</line>
+          <properties documentPath="$PROJECT_DIR$/ConsoleApp/Program.cs" initialLine="48">
+            <startOffsets>
+              <option value="1703" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1760" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ConsoleApp/Program.cs</url>
+          <line>56</line>
+          <properties documentPath="$PROJECT_DIR$/ConsoleApp/Program.cs" initialLine="51">
+            <startOffsets>
+              <option value="1934" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2017" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HeartbeatWinForms/SampleReport.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/HeartbeatWinForms/SampleReport.cs" initialLine="54">
+            <startOffsets>
+              <option value="1941" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1960" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

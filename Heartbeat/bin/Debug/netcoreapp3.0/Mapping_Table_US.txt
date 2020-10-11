@@ -1,0 +1,73 @@
+ɪ,ih
+ə,ax
+ɑ:,aa
+ʊ,uh
+ʌ,ah
+ɛ,eh
+æ,ae
+i,iy
+ɝ:,ax r
+ɚ,ax r
+ɔr,ao r
+ɑ,aa
+ɑr,aa r
+e,ey
+aɪ,ay
+ɔɪ,oy
+aʊ,aw
+au,aw
+o,ow
+ɪə,ia
+ɪr,ih r
+ɛr,eh r
+ur,uh r
+eɪ,ey
+ei,ey
+uə,ua
+ɜ,er
+oʊ,ow
+ɒ,oh
+a,aa
+ɔː,ao
+ɔ:,ao
+iə,ia
+ɝ,er r
+ai,ay
+iː,iy
+eə,ea
+ɜ:,er
+ɑː,aa
+ʊə,ua
+ə:,er
+ɛi,ey
+p,p
+t,t
+k,k
+f,f
+θ,th
+s,s
+ʃ,sh
+tʃ,ch
+b,b
+d,d
+g,g
+ɡ,g
+v,v
+ð,dh
+z,z
+ʒ,zh
+dʒ,jh
+h,hh
+m,m
+n,n
+ŋ,ng
+l,l
+ḷ,l
+r,r
+j,y
+w,w
+dr,d r
+dz,d z
+tr,t r
+ts,t s
+i:,iy

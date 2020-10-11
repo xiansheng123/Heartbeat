@@ -1,0 +1,16 @@
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.exe
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.deps.json
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.runtimeconfig.json
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.runtimeconfig.dev.json
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.dll
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\HeartbeatWinForms.pdb
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.csprojAssemblyReference.cache
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.AssemblyInfoInputs.cache
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.AssemblyInfo.cs
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.dll
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.pdb
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.Form1.resources
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\obj\Debug\netcoreapp3.0\HeartbeatWinForms.csproj.GenerateResource.cache
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\Mapping_Table_UK.txt
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\Mapping_Table_US.txt
+C:\Users\luxuda\workspace\Heartbeat\HeartbeatWinForms\bin\Debug\netcoreapp3.0\Oxford English Dictionary.txt
